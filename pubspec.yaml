@@ -23,6 +23,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  tron_dart:
+    path: C:\project\flutter\tron_dart
+#    git:
+#     url: https://github.com/Abolfazlnezami2000/tron_dart
 
 
   # The following adds the Cupertino Icons font to your application.

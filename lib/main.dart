@@ -1,6 +1,12 @@
 import 'package:flutter/material.dart';
+import 'package:tron_dart/tron_dart.dart';
 
 void main() {
+  
+  // test func for package
+  var value = Abi().decodeUint256([]);
+
+
   runApp(MyApp());
 }
 
